@@ -3,3 +3,11 @@
 ################################################################################
 
 /CustomIoc/.vs/CustomIoc/v16
+/CustomIoc/CustomIoc/bin/Debug/netcoreapp3.1
+/CustomIoc/CustomIoc/obj
+/CustomIoc/CustomIoc/wwwroot
+/CustomIoc/CustomIoc.Interface/bin/Debug/netcoreapp3.1
+/CustomIoc/CustomIoc.Interface/obj
+/CustomIoc/CustomIoc.Models/obj
+/CustomIoc/CustomIoc.Service/obj
+/CustomIoc/CustomIoc.Utility/obj

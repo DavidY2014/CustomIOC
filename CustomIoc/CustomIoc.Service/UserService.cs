@@ -2,7 +2,7 @@
 
 namespace CustomIoc.Service
 {
-    public class Class1
+    public class UserService
     {
     }
 }

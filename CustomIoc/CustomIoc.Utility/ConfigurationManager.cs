@@ -2,7 +2,7 @@
 
 namespace CustomIoc.Utility
 {
-    public class Class1
+    public class ConfigurationManager
     {
     }
 }

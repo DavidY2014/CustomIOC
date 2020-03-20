@@ -11,3 +11,17 @@
 /CustomIoc/CustomIoc.Models/obj
 /CustomIoc/CustomIoc.Service/obj
 /CustomIoc/CustomIoc.Utility/obj
+/CustomIoc/.vs/CustomIoc/config
+/CustomIoc/CustomIoc.BLL/bin/Debug/netcoreapp3.1
+/CustomIoc/CustomIoc.BLL/obj
+/CustomIoc/CustomIoc.Console/obj
+/CustomIoc/CustomIoc.DLL/bin/Debug/netcoreapp3.1
+/CustomIoc/CustomIoc.DLL/obj
+/CustomIoc/CustomIoc.IBLL/bin/Debug/netcoreapp3.1
+/CustomIoc/CustomIoc.IBLL/obj
+/CustomIoc/CustomIoc.IDLL/bin/Debug/netcoreapp3.1
+/CustomIoc/CustomIoc.IDLL/obj
+/CustomIoc/CustomIoc.Models/bin/Debug/netcoreapp3.1
+/CustomIoc/CustomIoc.Utility/bin/Debug/netcoreapp3.1
+/CustomIoc/CustomIocConsole/bin/Debug/netcoreapp3.1
+/CustomIoc/CustomIocConsole/obj

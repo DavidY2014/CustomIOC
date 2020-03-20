@@ -2,7 +2,7 @@
 
 namespace CustomIoc.Interface
 {
-    public class Class1
+    public class IUserService
     {
     }
 }

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CustomIoc.BLL\CustomIoc.BLL.csproj" />
+    <ProjectReference Include="..\CustomIoc.DLL\CustomIoc.DAL.csproj" />
+    <ProjectReference Include="..\CustomIoc.IBLL\CustomIoc.IBLL.csproj" />
+    <ProjectReference Include="..\CustomIoc.IDLL\CustomIoc.IDAL.csproj" />
+    <ProjectReference Include="..\CustomIoc.Models\CustomIoc.Models.csproj" />
+    <ProjectReference Include="..\CustomIoc.Utility\CustomIoc.Utility.csproj" />
+  </ItemGroup>
+
+</Project>
